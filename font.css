@@ -1,0 +1,20 @@
+body {
+  background-color: burlywood;
+  text-align: center;
+}
+.new {
+  /* background-color: brown; */
+  color: crimson;
+  /* margin-left: 600px; */
+}
+p {
+  color: black;
+  margin-top: 15px;
+  text-decoration: solid;
+  /* margin-left: 580px; */
+}
+.image {
+  border-color: black;
+  border-style: double;
+  margin-top: 50px;
+}
